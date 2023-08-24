@@ -1,2 +1,17 @@
 # ultimate-random-number-generator-gadget
-the one stop ultimate random number generator than fits all your needs.
+The ultimate random number generator that fits all your needs.
+
+Generating random numbers based on real-time ✅
+  - Every new number uses a different seed derived from the current Unix time ✅
+Set auto updating time interval ✅
+Pause button ✅
+Set different random ranges in the widget ✅
+Number History
+  - Save results into a text file
+Multiple generators at once
+Adding a menu window to integrate all the settings
+Perform tests
+  - Run numbers of and record the result
+  - Display a graph showing the distribution
+Adding "run until feature"
+  - numbers before hitting the target
