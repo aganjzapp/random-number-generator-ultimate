@@ -3,13 +3,13 @@ The ultimate random number generator that fits all your needs.
 
 Generating random numbers based on real-time ✅
 
-Every new number uses a different seed derived from the current Unix time ✅
+Using random number by different seed derived from the current Unix time ✅
 
 Set auto updating time interval ✅
 
 Pause button ✅
 
-Set different random ranges in the widget ✅
+Set different random ranges ✅
 
 Number History
 
